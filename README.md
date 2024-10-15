@@ -2,8 +2,6 @@
 
 ### Deployment
 
-[![publish](https://antonioacostaa.github.io/KWS2100-KartbaserteWebsystemer/actions/workflows/publish.yaml/badge.svg)](https://antonioacostaa.github.io/KWS2100-KartbaserteWebsystemer/actions)
-
 URL: https://antonioacostaa.github.io/KWS2100-KartbaserteWebsystemer/
 
 ## About this application
