@@ -6,7 +6,7 @@
 
 [![publish](https://github.com/kristiania-kws2100-2024/kws2100-exam-williamcaamot/actions/workflows/publish.yaml/badge.svg)](https://github.com/kristiania-kws2100-2024/kws2100-exam-williamcaamot/actions)
 
-URL: https://kristiania-kws2100-2024.github.io/kws2100-exam-williamcaamot/
+URL: https://antonioacostaa.github.io/KWS2100-KartbaserteWebsystemer/
 
 ## About this application
 
