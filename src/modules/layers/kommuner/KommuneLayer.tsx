@@ -27,7 +27,7 @@ export interface KommuneProperties {
 export const kommuneLayer = new VectorLayer({
   className: "kommuner",
   source: new VectorSource({
-    url: "/kws2100-exam-williamcaamot/layers/kommuner.json",
+    url: "/KWS2100-KartbaserteWebsystemer/layers/kommuner.json",
     format: new GeoJSON(),
   }),
   style: new Style({

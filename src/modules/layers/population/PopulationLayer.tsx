@@ -13,7 +13,7 @@ import Switch from "../../../ui/switch";
 
 const populationLayer = new VectorLayer({
   source: new VectorSource({
-    url: "/kws2100-exam-williamcaamot/layers/Population.json",
+    url: "/KWS2100-KartbaserteWebsystemer/layers/Population.json",
     format: new GeoJSON({
       dataProjection: "EPSG:4326",
       featureProjection: "EPSG:3857",

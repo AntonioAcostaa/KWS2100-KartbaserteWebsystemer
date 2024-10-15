@@ -17,7 +17,7 @@ import useLocalStorageState from "use-local-storage-state";
 
 const railwayLayer = new VectorLayer({
   source: new VectorSource({
-    url: "/kws2100-exam-williamcaamot/layers/jernbanelinjer-N50.json",
+    url: "/KWS2100-KartbaserteWebsystemer/layers/jernbanelinjer-N50.json",
     format: new GeoJSON(),
   }),
   style: railwayStyle,

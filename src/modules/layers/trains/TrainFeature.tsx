@@ -34,7 +34,7 @@ export const trainStyle = (feature: FeatureLike) => {
     }),
     new Style({
       image: new Icon({
-        src: "/kws2100-exam-williamcaamot/img/trainIcon.png",
+        src: "/KWS2100-KartbaserteWebsystemer/img/trainIcon.png",
         scale: 0.004,
         anchor: [0.5, 0.5],
         anchorXUnits: "fraction",
