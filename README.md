@@ -60,7 +60,7 @@ This application is designed to explore neighbourhoods and local offerings. It c
 - [x] Most settings are stored in LS. All Data layers, OGC VectorTileLayer, Drawings(except Circles) and user settings.
 - [x] Refresh button to reset selected layers
 - [x] Darkmode & lightmode (from system settings)
-  - [x] Possible to toggle dark/light mode from settings too
+  - [x] Possible to toggle dark/light mode from settings as well
 - [x] Shift+create selection on map => zoom to that selection
 - [x] Mobile- and user-friendly design
 - [x] All Vectorlayers and backgroundlayers have pre-loading set to infinity for a smooth experience.
